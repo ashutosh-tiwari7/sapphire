@@ -251,6 +251,11 @@ h6,
     background-size: cover;
 }
 
+.page-header2 {
+    background: linear-gradient(to right, rgb(15, 15, 15) 0%, rgba(2, 36, 91, 0) 100%), url(../img/cbg.jpg) center center no-repeat;
+    background-size: cover;
+}
+
 .page-header .breadcrumb-item+.breadcrumb-item::before {
     color: var(--light);
 }
